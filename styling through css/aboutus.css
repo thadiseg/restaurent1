@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to bottom,yellow,rgb(90, 150, 90));
+    margin: auto;
+    padding: 20px;
+}
+h1{
+    border: solid black;
+    text-align: center;
+    text-decoration: underline;
+}
+p::first-letter{
+    text-transform: uppercase;
+    font-size: 20px;
+}

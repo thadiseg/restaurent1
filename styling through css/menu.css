@@ -1,0 +1,18 @@
+h2{
+    border: solid black;
+    text-align: center;
+    background-color: bisque;
+}
+
+.div1{
+    background-color: rgb(45, 17, 167);
+    display:flex;
+    column-gap: 30px;
+    row-gap: 10px;
+    flex-wrap: nowrap;
+    width: 160px;
+}
+
+#div{
+    width: 100px;
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3),rgba(0,0,0,0.5));
+    background-image: url(home1.jpg);
+    background-size: 100%;
+    background-repeat:no-repeat;
+    flex-wrap: wrap;
+}
+
+.box{
+    font-family:latha;
+    color: blue;
+    width: 600px;
+    height: 600px;
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 400px;
+    margin-right: 200px;
+    background-image: url(home2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#btn1 a{
+    width: 200px;
+    text-align: center;
+    display: flex;
+    justify-content:end
+}
+
